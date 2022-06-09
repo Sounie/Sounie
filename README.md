@@ -8,6 +8,8 @@ Over the course of my career I have utilised a range of database technologies, f
 
 I am a firm believer in using the right technology for the right reasons, not just going with what is the most familiar or what might stand out on my CV.
 
+Since about 2015 most of my work projects have involved asynchronous processing of data, applying AWS SQS or Apache Kafka to capture the raw data and make it available for applying business logic. 
+
 My GitHub contributions history mainly reflects when my employers have or have not been using GitHub as their preferred source code host.
 
 
