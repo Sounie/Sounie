@@ -1,4 +1,7 @@
-### Hi there 👋
+### Profile of Stephen Souness
+
+[LinkedIn profile]: https://www.linkedin.com/in/stephensouness/
+[LinkedIn profile]
 
 <!--
 **Sounie/Sounie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
