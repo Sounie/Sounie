@@ -1,4 +1,8 @@
-### Profile of Stephen Souness
+### A bit about me
+
+I'm Stephen Souness, a professional software developer based in Christchurch, New Zealand.
+
+I lived in London, UK from September 2008 until August 2021.
 
 [LinkedIn profile]: https://www.linkedin.com/in/stephensouness/
 [LinkedIn profile]
