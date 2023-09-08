@@ -2,8 +2,6 @@
 
 I'm Stephen Souness, a professional software developer based in Christchurch, New Zealand.
 
-Currently open to new job opportunities.
-
 I'm originally from New Zealand, but lived in London from September 2008 until August 2021 where I gained a lot of hands on experience with back end technologies, including developing and deploying microservices into cloud environments including CloudFoundry, Mesos, EC2, ECS, and AWS Lambda.
 
 Over the course of my career I have utilised a range of database technologies, from relational databases such as MS SQL Server, MySQL, PostgreSQL to NoSQL databases including MarkLogic, HBase and DynamoDB.
