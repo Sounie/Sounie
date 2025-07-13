@@ -15,3 +15,5 @@ My GitHub contributions history mainly reflects when my employers have or have n
 
 [LinkedIn profile]: https://www.linkedin.com/in/stephensouness/
 [LinkedIn profile]
+
+My main tech blog: https://blog.sounie.nz/
