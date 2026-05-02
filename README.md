@@ -2,7 +2,7 @@
 
 I'm Stephen Souness, a professional software developer based in Christchurch, New Zealand.
 
-My most recent work experience has been as a remote worker with Atlassian, where I drove through efficiency improvements to save developer time and company money.
+My most recent work experience has been as a senior developer working on a distributed team with Atlassian, where I drove through efficiency improvements to save developer time and company money.
 
 Previously I lived and worked in London, UK for over a decade from the financial crisis of 2008 through Brexit and Covid. I gained a lot of hands on experience with back end technologies, including designing, developing, and deploying microservices into cloud environments starting off with CloudFoundry, then EC2 and ECS on AWS and even some Mesos along the way.
 
