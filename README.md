@@ -7,7 +7,10 @@ I was one of the 1600 or so caught up in the Atlassian redundancies of March 202
 [LinkedIn profile]: https://www.linkedin.com/in/stephensouness/
 [LinkedIn profile]
 
-My main tech blogs: https://blog.sounie.nz/ https://blog2.sounie.nz/
+My main tech blogs: 
+
+- https://blog.sounie.nz/ 
+- https://blog2.sounie.nz/
 
 My most recent work experience has been as a senior developer working on a distributed team with Atlassian, where I drove through efficiency improvements to save developer time and company money.
 
