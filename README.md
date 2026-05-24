@@ -22,6 +22,6 @@ I am a firm believer in using the right technology for the right reasons, not ju
 
 Since about 2015 most of my work projects have involved asynchronous processing of data, applying AWS SQS or Apache Kafka to capture the raw data and make it available for applying business logic and responding to queries in data sources.
 
-My GitHub contributions history mainly reflects when my employers have or have not been using GitHub as their preferred source code host, so 2020 through to 2021 isn't the only time that I've been committing code!
+My GitHub contributions history mainly reflects when my employers have or have not been using GitHub as their preferred source code host, so 2020 through to 2021 isn't the only time that I've been committing code! Unsurprisingly, my code contributions at Atlassian were exclusively into Bitbucket.
 
 
