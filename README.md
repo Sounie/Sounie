@@ -2,7 +2,7 @@
 
 I'm Stephen Souness, a professional software developer based in Christchurch, New Zealand.
 
-I was one of the 1600 or so caught up in the Atlassian redundancies of March 2026 so am on the lookout for something new to work on.
+I was one of the developers whose role was cut in the Atlassian redundancies of 2026, so am on the lookout for something new to work on.
 
 [LinkedIn profile]: https://www.linkedin.com/in/stephensouness/
 [LinkedIn profile]
