@@ -10,7 +10,7 @@ My more recent tech blogs:
 - https://blog.sounie.nz/ 
 - https://blog2.sounie.nz/
 
-My current role is as a back end developer using AI to design and implement new features on a range of services and libraries in the AI domain.
+In 2026 I got into utilising agentic AI coding tools for designing and developing software. My most recent role was as a back end developer using AI to design and implement new features on a range of services and libraries in the AI domain.
 
 Previously I lived and worked in London, UK for over a decade from the financial crisis of 2008 through Brexit and Covid. I gained a lot of hands on experience with back end technologies, including designing, developing, and deploying microservices into cloud environments starting off with CloudFoundry, then EC2 and ECS on AWS and even some Mesos along the way.
 
@@ -21,5 +21,3 @@ I am a firm believer in using the right technology for the right reasons, not ju
 Since about 2015 most of my work projects have involved asynchronous processing of data, applying AWS SQS or Apache Kafka to capture the raw data and make it available for applying business logic and responding to queries in data sources.
 
 My GitHub contributions history mainly reflects when my employers have or have not been using GitHub as their preferred source code host, so 2020 through to 2021 isn't the only time that I've been committing code! Unsurprisingly, my code contributions at Atlassian were exclusively into Bitbucket.
-
-In 2026 I got into utilising agentic AI coding tools for designing and developing software.
