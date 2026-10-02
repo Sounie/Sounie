@@ -5,7 +5,7 @@ I'm Stephen Souness, a professional software developer based in Christchurch, Ne
 [LinkedIn profile]: https://www.linkedin.com/in/stephensouness/
 [LinkedIn profile]
 
-My main tech blogs: 
+My more recent tech blogs: 
 
 - https://blog.sounie.nz/ 
 - https://blog2.sounie.nz/
@@ -22,4 +22,4 @@ Since about 2015 most of my work projects have involved asynchronous processing 
 
 My GitHub contributions history mainly reflects when my employers have or have not been using GitHub as their preferred source code host, so 2020 through to 2021 isn't the only time that I've been committing code! Unsurprisingly, my code contributions at Atlassian were exclusively into Bitbucket.
 
-
+In 2026 I got into utilising agentic AI coding tools for designing and developing software.
